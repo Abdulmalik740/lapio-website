@@ -1,1 +1,26 @@
-p { background-color: red; }
+<head>
+  <style>
+    body {
+      background-color: black;
+    }
+
+    h1 {
+      color: blue;
+    }
+
+    h2 {
+      color: red;
+    }
+    h3 {
+      color: purple;
+    }
+
+    .yellow {
+      color: yellow;
+    }
+    .red {
+      color: red;
+      }
+  </style>
+</head>
+
